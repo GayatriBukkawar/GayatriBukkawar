@@ -1,7 +1,7 @@
 # 🌟 **Gayatri Bukkawar** | DevOps Engineer 🌟
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Devops-toolchain.svg" width="300"/>
-Welcome to my GitHub profile! 👩‍💻 I'm **Gayatri Bukkawar**, a **DevOps Engineer** passionate about automation, cloud technologies, and continuous integration. As a fresher, I am enthusiastic about learning new technologies and working on real-world solutions. Let's connect and innovate together! 🎉
+Welcome to my GitHub profile! 👩‍💻 I'm Gayatri Bukkawar, a DevOps Engineer passionate about automation, cloud technologies, and continuous integration. As a fresher, I am enthusiastic about learning new technologies and working on real-world solutions. Let's connect and innovate together! 🎉
 
 ---
 
