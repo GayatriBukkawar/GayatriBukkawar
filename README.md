@@ -50,7 +50,28 @@ Here's a quick look at the tools I work with:
 
 
 ---
+---
+## 💻 **Highlighted Projects**
 
+### 1. **CI/CD Pipeline for Java Web App**
+- **Tools Used:** Jenkins, SonarQube, Nexus, Tomcat, GitHub
+- Built a CI/CD pipeline to automate build, test, and deployment of a Java web app.
+- Integrated SonarQube for code quality checks and Nexus for artifact storage.
+- Enabled smooth deployment to Apache Tomcat with rollback capability.
+
+### 2. **Containerized App Deployment with Docker & Kubernetes**
+- **Tools Used:** Docker, Kubernetes, Jenkins
+- Containerized a web application and deployed it using Kubernetes.
+- Implemented rolling updates and auto-scaling for zero-downtime deployments.
+- Automated entire process using Jenkins pipelines.
+
+### 3. **AWS Infrastructure Automation using Terraform**
+- **Tools Used:** AWS (EC2, S3, RDS), Terraform
+- Provisioned AWS infrastructure using Terraform scripts.
+- Created reusable modules for consistent deployments.
+- Managed infrastructure state and variables securely.
+
+---
 ## 📬 **Let's Connect!**
 
 Feel free to explore my repositories, fork projects, and collaborate with me! 💻✨
