@@ -155,16 +155,6 @@ Azure DevOps • Azure App Service • GitHub
 
 ---
 
-# 📈 GitHub Goals (2026)
-
-- Build 10 DevOps Projects
-- Daily GitHub Commits
-- Learn Kubernetes Deeply
-- Master Azure DevOps
-- Learn GitHub Actions
-- Crack DevOps Interviews
-
----
 
 # 📜 Certifications
 
